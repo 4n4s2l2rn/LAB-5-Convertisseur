@@ -6,6 +6,9 @@
 ---
 
 ## Aperçu
+<div align="center">
+  <img width="360" alt="demo" src="https://github.com/user-attachments/assets/2620b2ba-2cc9-47ed-a323-e2ddfed8f8be" />
+</div>
 
 <!-- Pour intégrer une démo vidéo, voir la section "Intégration vidéo" en bas de ce fichier -->
 
